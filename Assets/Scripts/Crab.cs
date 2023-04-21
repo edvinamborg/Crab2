@@ -16,7 +16,6 @@ public class Crab : MonoBehaviour
     private int score = 0;
     public TMP_Text livDisplay;
     public TMP_Text GameOver;
-
     private TMP_Text livDisplaytext;
     private int Liv = 3;
     
